@@ -84,7 +84,7 @@ if para == "pred":
     plt.tick_params(labelsize=23,direction="in",width=3,length=9)
     
     bwith = 3
-    ax = plt.gca()#获取边框
+    ax = plt.gca()#
     ax.spines['bottom'].set_linewidth(bwith)
     ax.spines['left'].set_linewidth(bwith)
     ax.spines['top'].set_linewidth(bwith)
@@ -131,7 +131,7 @@ else:
     plt.tick_params(labelsize=23,direction="in",width=3,length=9)
     
     bwith = 3
-    ax = plt.gca()#获取边框
+    ax = plt.gca()#
     ax.spines['bottom'].set_linewidth(bwith)
     ax.spines['left'].set_linewidth(bwith)
     ax.spines['top'].set_linewidth(bwith)
