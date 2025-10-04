@@ -1,6 +1,6 @@
 # one-vertex-attack
 
-Welcome to the **One Vertex Attack against Spatiotemporal Traffic Forecasting** repository! This repository contains the official code implementation for the paper [Manipulating Deep Graph Neural Network-based Spatiotemporal Traffic Forecasting from One Vertex]. Dive into the fascinating world of Deep Graph Neural Networks and their application in spatiotemporal traffic forecasting as we explore their capabilities, limitations, and the vulnerabilities exposed by adversarial attacks. 
+Welcome to the **One Vertex Attack against Spatiotemporal Traffic Forecasting** repository! This repository contains the official code implementation for the paper [One Vertex Attack against Spatiotemporal Traffic Forecasting]. Dive into the fascinating world of Deep Graph Neural Networks and their application in spatiotemporal traffic forecasting as we explore their capabilities, limitations, and the vulnerabilities exposed by adversarial attacks. 
 
 ## 📜 Citation
 
